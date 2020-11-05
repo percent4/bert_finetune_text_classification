@@ -1,0 +1,6 @@
+.idea
+data/cnews
+data/title_news
+data/people_relation
+model/bert
+model/chinese_L-12_H-768_A-12
